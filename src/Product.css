@@ -1,0 +1,14 @@
+.Product-style {
+    display: flex;
+
+}
+
+.Image-Style {
+    display: flex;
+    flex-flow: flex-start;
+}
+
+.Price-Style {
+    display: flex;
+    flex-flow: flex-end;
+}
