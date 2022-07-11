@@ -1,18 +1,19 @@
 .Product-style {
     display: flex;
-    
+    font-family: Sans-seriff;
+    font-size: 2rem;
 }
 
 .Image-Style {
     display: flex;
     flex-flow: flex-start;
     padding: 1.26rem 1.1rem;
-    
+    font-size: 1.25rem;
 }
 
 .Price-Style {
     display: flex;
     flex-flow: flex-end;
     padding: 1.26rem 1.1rem;
-    
+    font-size: 2.23rem;
 }
