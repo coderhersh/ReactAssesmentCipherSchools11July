@@ -1,14 +1,18 @@
 .Product-style {
     display: flex;
-
+    
 }
 
 .Image-Style {
     display: flex;
     flex-flow: flex-start;
+    padding: 1.26rem 1.1rem;
+    
 }
 
 .Price-Style {
     display: flex;
     flex-flow: flex-end;
+    padding: 1.26rem 1.1rem;
+    
 }
